@@ -1,0 +1,11 @@
+c:\users\kristoffer\documents\visual studio 2013\Projects\Wow Launcher\Wow Launcher\bin\Debug\Wow Launcher.exe.config
+c:\users\kristoffer\documents\visual studio 2013\Projects\Wow Launcher\Wow Launcher\bin\Debug\Wow Launcher.exe
+c:\users\kristoffer\documents\visual studio 2013\Projects\Wow Launcher\Wow Launcher\bin\Debug\Wow Launcher.pdb
+c:\users\kristoffer\documents\visual studio 2013\Projects\Wow Launcher\Wow Launcher\bin\Debug\Wow Launcher.xml
+c:\users\kristoffer\documents\visual studio 2013\Projects\Wow Launcher\Wow Launcher\obj\Debug\Wow_Launcher.Form1.resources
+c:\users\kristoffer\documents\visual studio 2013\Projects\Wow Launcher\Wow Launcher\obj\Debug\Wow_Launcher.Resources.resources
+c:\users\kristoffer\documents\visual studio 2013\Projects\Wow Launcher\Wow Launcher\obj\Debug\Wow Launcher.vbproj.GenerateResource.Cache
+c:\users\kristoffer\documents\visual studio 2013\Projects\Wow Launcher\Wow Launcher\obj\Debug\Wow Launcher.exe
+c:\users\kristoffer\documents\visual studio 2013\Projects\Wow Launcher\Wow Launcher\obj\Debug\Wow Launcher.xml
+c:\users\kristoffer\documents\visual studio 2013\Projects\Wow Launcher\Wow Launcher\obj\Debug\Wow Launcher.pdb
+c:\users\kristoffer\documents\visual studio 2013\Projects\Wow Launcher\Wow Launcher\obj\Debug\Wow_Launcher.Form2.resources
