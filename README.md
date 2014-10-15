@@ -3,7 +3,7 @@ Mangos_launcher
 
 This is a World of Warcraft Launcher, currently only for Vanilla (mangoszero), but i have future plans, for this project and theres going to be much more functions.
 
-futures:
+features:
 
 wow server status chekker.
 
